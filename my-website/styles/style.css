@@ -1,0 +1,33 @@
+html
+{
+ background-color: black;
+}
+p.welcome
+{
+    font-family: 'Spicy Rice', cursive;
+    font-size :60px;
+    color: antiquewhite;   
+    margin: 0em 40px 0px 440px;
+}
+
+button
+{
+    color:black;
+    background-color: lightseagreen;
+    font-family: 'Spicy Rice', cursive;
+    font-size:30px;
+    padding: 10px 100px;
+}
+button:hover
+{
+    background-color: whitesmoke;
+}
+
+#demo
+{
+    color:whitesmoke;
+    font-size :20px;
+    font-family: 'Bree Serif', serif;
+ 
+}
+
